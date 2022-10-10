@@ -1,11 +1,8 @@
 ---
 layout: blog
-published: true
 category: blog
-splash: "http://placehold.it/1600x500"
-tags: null
+published: true
+splash: 'http://placehold.it/1600x500'
 title: Untitled
 ---
-
-
-Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis dolor euismod porttitor mollis. Phasellus commodo magna nulla, ut faucibus metus aliquet eget. Suspendisse magna lectus, iaculis non porttitor id, placerat non eros. Vestibulum elementum dolor et eros vestibulum dictum. Donec ultrices, lectus ut porttitor molestie, mi metus placerat augue, id eleifend lectus tortor iaculis enim. Nulla sed orci arcu. Quisque ac pulvinar nulla. Donec dolor mauris, lobortis nec vehicula et, tristique eu turpis. Phasellus ut lorem ac velit auctor suscipit. Integer porta leo quis semper tincidunt. Donec consectetur, odio a commodo blandit, dui ipsum consectetur odio, a blandit nibh mauris id ante. Pellentesque tempus augue vitae porta faucibus.
